@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49f0fcce-dde0-427c-9c53-8a38e57626db" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XcP1MZv5UHDunbHP9PG4j0Wxkx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+    <property name="ts.external.directory.path" value="D:\WebStorm 2019.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\79803\Desktop\ReactJSITC\less1\src\components\todo-list-item" />
+      <recent name="C:\Users\79803\Desktop\ReactJSITC\less1\src\components\todo-list" />
+      <recent name="C:\Users\79803\Desktop\ReactJSITC\less1\src\components\search-panel" />
+      <recent name="C:\Users\79803\Desktop\ReactJSITC\less1\src\components\item-status-filter" />
+      <recent name="C:\Users\79803\Desktop\ReactJSITC\less1\src\components\app-header" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49f0fcce-dde0-427c-9c53-8a38e57626db" name="Default Changelist" comment="" />
+      <created>1581342193138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581342193138</updated>
+      <workItem from="1581342195202" duration="2821000" />
+      <workItem from="1581404902662" duration="3147000" />
+      <workItem from="1581630007790" duration="598000" />
+      <workItem from="1581670733349" duration="14951000" />
+      <workItem from="1581764294616" duration="52000" />
+      <workItem from="1581764387930" duration="192000" />
+      <workItem from="1581767913829" duration="2084000" />
+      <workItem from="1581873181235" duration="3817000" />
+      <workItem from="1581894990501" duration="611000" />
+      <workItem from="1581954206737" duration="1923000" />
+      <workItem from="1582015045824" duration="17248000" />
+      <workItem from="1582097516398" duration="3209000" />
+      <workItem from="1582108362474" duration="5209000" />
+      <workItem from="1582191281487" duration="8281000" />
+      <workItem from="1582281988147" duration="16119000" />
+      <workItem from="1582320825085" duration="221000" />
+      <workItem from="1582321099431" duration="432000" />
+      <workItem from="1582321542367" duration="53000" />
+      <workItem from="1582321666378" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="167" y="257" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581764336948">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="167" y="257" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581764336948" />
+    <state x="234" y="378" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1581701255961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="234" y="378" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1581701255961" />
+    <state x="267" y="287" width="440" height="481" key="FileChooserDialogImpl" timestamp="1582106720796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="267" y="287" width="440" height="481" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582106720796" />
+    <state x="0" y="162" key="SettingsEditor" timestamp="1582201438795">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582201438795" />
+  </component>
+</project>
